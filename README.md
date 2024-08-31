@@ -13,10 +13,10 @@ Este repositório contém minhas soluções e materiais relacionados à [Reinfor
   - [Practice Quiz: Exploration-Exploitation](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%201/Practice%20Quiz%20Exploration-Exploitation.png)
   - [Notebook: Bandits and Exploration/Exploitation](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%201/Notebook_Bandits_and_Exploration_Exploitation/C1M1-Assignment1-v8.ipynb)
 - **Semana 2**
-  - [Practice Quiz: MDPs](./01 - Fundamentals of Reinforcement Learning/Week 02/Practice Quiz MDPs.pdf)
+  - [Practice Quiz: MDPs](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%202/Practice%20Quiz%20MDPs.png)
 - **Semana 3**
-  - [Practice Quiz: Value Functions and Bellman Equations](./01 - Fundamentals of Reinforcement Learning/Week 03/Practice Quiz Value Functions and Bellman Equations.pdf)
-  - [Quiz: Value Functions and Bellman Equations](./01 - Fundamentals of Reinforcement Learning/Week 03/Quiz Value Functions and Bellman Equations.pdf)
+  - [Practice Quiz: Value Functions and Bellman Equations](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%203/Practice%20Quiz%20Value%20Functions%20and%20Bellman%20Equations.png)
+  - [Quiz: Value Functions and Bellman Equations](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%203/Quiz%20Value%20Functions%20and%20Bellman%20Equations.png)
 - **Semana 4**
   - [Practice Quiz: Dynamic Programming](./01 - Fundamentals of Reinforcement Learning/Week 04/Practice Quiz Dynamic Programming.pdf)
   - [Notebook: Optimal Policies with Dynamic Programming](./01 - Fundamentals of Reinforcement Learning/Week 04/Notebook_Optimal_Policies_with_Dynamic_Programming/C1M4_Assignment2-v2.ipynb)

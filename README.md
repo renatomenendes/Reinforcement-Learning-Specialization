@@ -80,7 +80,7 @@ Aqui estão os certificados que obtive ao concluir a especialização:
 
 <kbd><img src="./Certificate/Certificate.jpg" alt="Specialization Certificate" /></kbd>
 <kbd><img src="./01 - Fundamentals of Reinforcement Learning/Certificate/Certificate.jpg" alt="Fundamentals of Reinforcement Learning Certificate" /></kbd>
-<kbd><img src=".02 - Prediction and Control with Function Approximation/Certificate/Certificate.jpg" alt="Sample-based Learning Methods Certificate" /></kbd>
+<kbd><img src="https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Sample-based%20Learning%20Methods/Certificate/Certificate.jpg" alt="Sample-based Learning Methods Certificate" /></kbd>
 <kbd><img src="https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Prediction%20and%20Control%20with%20Function%20Approximation/Certificate/Certificate.jpg" alt="Prediction and Control with Function Approximation Certificate" /></kbd>
 <kbd><img src="./04 - A Complete Reinforcement Learning System (Capstone)/Certificate/Certificate.jpg" alt="Capstone Project Certificate" /></kbd>
 

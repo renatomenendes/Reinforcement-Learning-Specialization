@@ -1,4 +1,4 @@
-# Reinforcement Learning
+# Reinforcement Learning **
 
 **[Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)**
 + **[Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)**
@@ -77,5 +77,6 @@ These course materials belong entirely to `University of Alberta` & `Alberta Mac
 
 
 <kbd><img src="https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/master/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Certificate/Certificate.jpg" /></kbd>
-#   R e i n f o r c e m e n t - L e a r n i n g - S p e c i a l i z a t i o n  
+#   R e i n f o r c e m e n t - L e a r n i n g - S p e c i a l i z a t i o n 
+ 
  

@@ -2,8 +2,6 @@
 
 # Reinforcement Learning Specialization
 
----
-
 Este repositório contém minhas soluções e materiais relacionados à [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) oferecida pela Universidade de Alberta e o Alberta Machine Intelligence Institute, ministrada pelos instrutores **Martha White** e **Adam White**.
 
 ## Conteúdo do Repositório

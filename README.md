@@ -43,11 +43,11 @@ Este repositório contém minhas soluções e materiais relacionados à [Reinfor
   - [Practice Quiz: Constructing Features for Prediction](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/03%20-%20Prediction%20and%20Control%20with%20Function%20Approximation/Week%202/Practice%20Quiz%20Constructing%20Features%20for%20Prediction.png)
   - [Notebook: Semi-gradient TD with a Neural Network](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/03%20-%20Prediction%20and%20Control%20with%20Function%20Approximation/Week%202/Notebook_Semi_gradient_TD_with_a_Neural_Network/C3M2_Assignment2-v7.ipynb)
 - **Semana 3**
-  - [Practice Quiz: Control with Approximation](./03 - Prediction and Control with Function Approximation/Week 03/Practice Quiz Control with Approximation.png)
-  - [Notebook: Function Approximation and Control](./03 - Prediction and Control with Function Approximation/Week 03/Notebook_Function_Approximation_and_Control/Assignment3-v3.ipynb)
+  - [Practice Quiz: Control with Approximation](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/03%20-%20Prediction%20and%20Control%20with%20Function%20Approximation/Week%203/Practice%20Quiz%20Control%20with%20Approximation.png)
+  - [Notebook: Function Approximation and Control](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/03%20-%20Prediction%20and%20Control%20with%20Function%20Approximation/Week%203/Notebook_Function_Approximation_and_Control/Assignment3-v3.ipynb)
 - **Semana 4**
   - [Practice Quiz: Policy Gradient Methods](#)
-  - [Notebook: Average Reward Softmax Actor-Critic using Tile-coding](./03 - Prediction and Control with Function Approximation/Week 04/Notebook_Average_Reward_Softmax_Actor-Critic_using_Tile-coding/C3M4_Assignment4-v8.ipynb)
+  - [Notebook: Average Reward Softmax Actor-Critic using Tile-coding](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/03%20-%20Prediction%20and%20Control%20with%20Function%20Approximation/Week%204/Notebook_Average_Reward_Softmax_Actor_Critic_using_Tile_coding/C3M4_Assignment4-v8.ipynb)
 
 ### 4. [A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system)
 - **Semana 2**

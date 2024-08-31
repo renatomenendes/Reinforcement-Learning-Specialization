@@ -10,7 +10,7 @@ Este repositório contém minhas soluções e materiais relacionados à [Reinfor
 
 ### 1. [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)
 - **Semana 1**
-  - [Practice Quiz: Exploration-Exploitation](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%201/Practice%20Quiz%20Exploration-Exploitation.pdf)
+  - [Practice Quiz: Exploration-Exploitation](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%201/Practice%20Quiz%20Exploration-Exploitation.png)
   - [Notebook: Bandits and Exploration/Exploitation](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%201/Notebook_Bandits_and_Exploration_Exploitation/C1M1-Assignment1-v8.ipynb)
 - **Semana 2**
   - [Practice Quiz: MDPs](./01 - Fundamentals of Reinforcement Learning/Week 02/Practice Quiz MDPs.pdf)

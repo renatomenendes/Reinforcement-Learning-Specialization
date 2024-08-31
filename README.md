@@ -51,15 +51,15 @@ Este repositório contém minhas soluções e materiais relacionados à [Reinfor
 
 ### 4. [A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system)
 - **Semana 2**
-  - [Notebook: MoonShot Technologies](./04 - A Complete Reinforcement Learning System (Capstone)/Week 02/Notebook_MoonShot_Technologies/Assignment1-v2.ipynb)
+  - [Notebook: MoonShot Technologies]([./04 - A Complete Reinforcement Learning System (Capstone)/Week 02/Notebook_MoonShot_Technologies/Assignment1-v2.ipynb](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/04%20-%20A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Week%202/Notebook_MoonShot_Technologies/Assignment1-v2.ipynb))
 - **Semana 3**
-  - [Quiz: Choosing the Right Algorithm](./04 - A Complete Reinforcement Learning System (Capstone)/Week 03/Quiz Choosing the Right Algorithm.pdf)
+  - [Quiz: Choosing the Right Algorithm](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/04%20-%20A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Week%203/Quiz%20Choosing%20the%20Right%20Algorithm.png)
 - **Semana 4**
-  - [Quiz: Impact of Parameter Choices in RL](./04 - A Complete Reinforcement Learning System (Capstone)/Week 04/Quiz Impact of Parameter Choices in RL.pdf)
+  - [Quiz: Impact of Parameter Choices in RL](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/04%20-%20A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Week%204/Quiz%20Impact%20of%20Parameter%20Choices%20in%20RL.png)
 - **Semana 5**
-  - [Notebook: Implement Your Agent](./04 - A Complete Reinforcement Learning System (Capstone)/Week 5/Notebook_Implement_Your_Agent/Course4ProgrammingAssignment2-v4.ipynb)
+  - [Notebook: Implement Your Agent](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/04%20-%20A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Week%205/Notebook_Implement_Your_Agent/Course4ProgrammingAssignment2-v4.ipynb)
 - **Semana 6**
-  - [Notebook: Completing the Parameter Study](./04 - A Complete Reinforcement Learning System (Capstone)/Week 6/Notebook_Completing_the_Parameter_Study/C4M5_Assignment3-v9.ipynb)
+  - [Notebook: Completing the Parameter Study](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/04%20-%20A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Week%206/Notebook_Completing_the_parameter_study/C4M5_Assignment3-v9.ipynb)
 
 ## Instrutores
 - **Martha White** - Professora Associada de Ciência da Computação, Universidade de Alberta.

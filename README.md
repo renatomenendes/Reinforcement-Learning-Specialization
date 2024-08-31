@@ -37,11 +37,11 @@ Este repositório contém minhas soluções e materiais relacionados à [Reinfor
 
 ### 3. [Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)
 - **Semana 1**
-  - [Practice Quiz: On-policy Prediction with Approximation](./03 - Prediction and Control with Function Approximation/Week 01/Practice Quiz On-policy Prediction with Approximation.pdf)
-  - [Notebook: Semi-gradient TD(0) with State Aggregation](./03 - Prediction and Control with Function Approximation/Week 01/Notebook_Semi-gradient_TD%280%29_with_State_Aggregation/C3M1_Assignment1-v8.ipynb)
+  - [Practice Quiz: On-policy Prediction with Approximation](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/03%20-%20Prediction%20and%20Control%20with%20Function%20Approximation/Week%201/Practice%20Quiz%20On-policy%20Prediction%20with%20Approximation.png)
+  - [Notebook: Semi-gradient TD(0) with State Aggregation](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/03%20-%20Prediction%20and%20Control%20with%20Function%20Approximation/Week%201/Notebook_Semi_gradient_TD_with_State_Aggregation/C3M1_Assignment1-v8.ipynb)
 - **Semana 2**
-  - [Practice Quiz: Constructing Features for Prediction](./03 - Prediction and Control with Function Approximation/Week 02/Practice Quiz Constructing Features for Prediction.pdf)
-  - [Notebook: Semi-gradient TD with a Neural Network](./03 - Prediction and Control with Function Approximation/Week 02/Notebook_Semi-gradient_TD_with_a_Neural_Network/C3M2_Assignment2-v7.ipynb)
+  - [Practice Quiz: Constructing Features for Prediction](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/03%20-%20Prediction%20and%20Control%20with%20Function%20Approximation/Week%202/Practice%20Quiz%20Constructing%20Features%20for%20Prediction.png)
+  - [Notebook: Semi-gradient TD with a Neural Network](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/03%20-%20Prediction%20and%20Control%20with%20Function%20Approximation/Week%202/Notebook_Semi_gradient_TD_with_a_Neural_Network/C3M2_Assignment2-v7.ipynb)
 - **Semana 3**
   - [Practice Quiz: Control with Approximation](./03 - Prediction and Control with Function Approximation/Week 03/Practice Quiz Control with Approximation.png)
   - [Notebook: Function Approximation and Control](./03 - Prediction and Control with Function Approximation/Week 03/Notebook_Function_Approximation_and_Control/Assignment3-v3.ipynb)

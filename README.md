@@ -32,8 +32,8 @@ Este repositório contém minhas soluções e materiais relacionados à [Reinfor
   - [Quiz: Practice Quiz](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Sample-based%20Learning%20Methods/Week%204/Quiz%20Practice%20Quiz.png)
   - [Notebook: Q-Learning and Expected Sarsa](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Sample-based%20Learning%20Methods/Week%204/Notebook_Q_Learning_and_Expected_Sarsa/C2M3_Assignment2_v6.ipynb)
 - **Semana 5**
-  - [Quiz: Practice Assessment](.02 - Prediction and Control with Function Approximation/Week 5/Quiz Practice Assessment.png)
-  - [Notebook: Dyna-Q and Dyna-Q+](.02 - Prediction and Control with Function Approximation/Week 5/Notebook_Dyna-Q_and_Dyna-Q+/Planning_Assignment-v2.ipynb)
+  - [Quiz: Practice Assessment](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Sample-based%20Learning%20Methods/Week%205/Quiz%20Practice%20Assessment.png)
+  - [Notebook: Dyna-Q and Dyna-Q+](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Sample-based%20Learning%20Methods/Week%205/Notebook_Dyna_Q_and_Dyna_Q_plus/Planning_Assignment-v2.ipynb)
 
 ### 3. [Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)
 - **Semana 1**

@@ -51,7 +51,7 @@ Este repositório contém minhas soluções e materiais relacionados à [Reinfor
 
 ### 4. [A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system)
 - **Semana 2**
-  - [Notebook: MoonShot Technologies]([./04 - A Complete Reinforcement Learning System (Capstone)/Week 02/Notebook_MoonShot_Technologies/Assignment1-v2.ipynb](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/04%20-%20A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Week%202/Notebook_MoonShot_Technologies/Assignment1-v2.ipynb))
+  - [Notebook: MoonShot Technologies](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/04%20-%20A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Week%202/Notebook_MoonShot_Technologies/Assignment1-v2.ipynb)
 - **Semana 3**
   - [Quiz: Choosing the Right Algorithm](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/04%20-%20A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Week%203/Quiz%20Choosing%20the%20Right%20Algorithm.png)
 - **Semana 4**

@@ -23,14 +23,14 @@ Este repositório contém minhas soluções e materiais relacionados à [Reinfor
 
 ### 2. [Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)
 - **Semana 2**
-  - [Quiz: Graded Quiz](.02 - Prediction and Control with Function Approximation/Week 02/Quiz Graded Quiz.pdf)
-  - [Notebook: Blackjack](.02 - Prediction and Control with Function Approximation/Week 02/Notebook_Blackjack/Blackjack.ipynb)
+  - [Quiz: Graded Quiz](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Sample-based%20Learning%20Methods/Week%202/Quiz%20Graded%20Quiz.png)
+  - [Notebook: Blackjack](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Sample-based%20Learning%20Methods/Week%202/Notebook_Blackjack/Blackjack.ipynb)
 - **Semana 3**
-  - [Quiz: Practice Quiz](.02 - Prediction and Control with Function Approximation/Week 03/Quiz Practice Quiz.pdf)
-  - [Notebook: Policy Evaluation with Temporal Difference Learning](.02 - Prediction and Control with Function Approximation/Week 03/Notebook_Policy_Evaluation_with_Temporal_Difference_Learning/C2M2-Assignment-v4.ipynb)
+  - [Quiz: Practice Quiz](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Sample-based%20Learning%20Methods/Week%203/Quiz%20Practice%20Quiz.png)
+  - [Notebook: Policy Evaluation with Temporal Difference Learning](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Sample-based%20Learning%20Methods/Week%203/Notebook_Policy_Evaluation_with_Temporal_Difference_Learning/C2M2-Assignment-v4.ipynb)
 - **Semana 4**
-  - [Quiz: Practice Quiz](.02 - Prediction and Control with Function Approximation/Week 04/Quiz Practice Quiz.pdf)
-  - [Notebook: Q-Learning and Expected Sarsa](.02 - Prediction and Control with Function Approximation/Week 04/Notebook_Q-Learning_and_Expected_Sarsa/C2M3_Assignment2_v6.ipynb)
+  - [Quiz: Practice Quiz](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Sample-based%20Learning%20Methods/Week%204/Quiz%20Practice%20Quiz.png)
+  - [Notebook: Q-Learning and Expected Sarsa](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Sample-based%20Learning%20Methods/Week%204/Notebook_Q_Learning_and_Expected_Sarsa/C2M3_Assignment2_v6.ipynb)
 - **Semana 5**
   - [Quiz: Practice Assessment](.02 - Prediction and Control with Function Approximation/Week 5/Quiz Practice Assessment.png)
   - [Notebook: Dyna-Q and Dyna-Q+](.02 - Prediction and Control with Function Approximation/Week 5/Notebook_Dyna-Q_and_Dyna-Q+/Planning_Assignment-v2.ipynb)

@@ -18,7 +18,7 @@ Este repositório contém minhas soluções e materiais relacionados à [Reinfor
   - [Practice Quiz: Value Functions and Bellman Equations](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%203/Practice%20Quiz%20Value%20Functions%20and%20Bellman%20Equations.png)
   - [Quiz: Value Functions and Bellman Equations](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%203/Quiz%20Value%20Functions%20and%20Bellman%20Equations.png)
 - **Semana 4**
-  - [Practice Quiz: Dynamic Programming](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%204/Practice%20Quiz%EF%80%A2%20Dynamic%20Programming.png)
+  - [Practice Quiz: Dynamic Programming](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%204/Practice%20Quiz%20Dynamic%20Programming.png)
   - [Notebook: Optimal Policies with Dynamic Programming](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%204/Notebook_Optimal_Policies_with_Dynamic_Programming/C1M4_Assignment2-v2.ipynb)
 
 ### 2. [Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)
@@ -81,7 +81,7 @@ Aqui estão os certificados que obtive ao concluir a especialização:
 <kbd><img src="./Certificate/Certificate.jpg" alt="Specialization Certificate" /></kbd>
 <kbd><img src="./01 - Fundamentals of Reinforcement Learning/Certificate/Certificate.jpg" alt="Fundamentals of Reinforcement Learning Certificate" /></kbd>
 <kbd><img src=".02 - Prediction and Control with Function Approximation/Certificate/Certificate.jpg" alt="Sample-based Learning Methods Certificate" /></kbd>
-<kbd><img src="./03 - Prediction and Control with Function Approximation/Certificate/Certificate.jpg" alt="Prediction and Control with Function Approximation Certificate" /></kbd>
+<kbd><img src="https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/02%20-%20Prediction%20and%20Control%20with%20Function%20Approximation/Certificate/Certificate.jpg" alt="Prediction and Control with Function Approximation Certificate" /></kbd>
 <kbd><img src="./04 - A Complete Reinforcement Learning System (Capstone)/Certificate/Certificate.jpg" alt="Capstone Project Certificate" /></kbd>
 
 ---

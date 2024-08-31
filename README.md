@@ -18,8 +18,8 @@ Este repositório contém minhas soluções e materiais relacionados à [Reinfor
   - [Practice Quiz: Value Functions and Bellman Equations](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%203/Practice%20Quiz%20Value%20Functions%20and%20Bellman%20Equations.png)
   - [Quiz: Value Functions and Bellman Equations](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%203/Quiz%20Value%20Functions%20and%20Bellman%20Equations.png)
 - **Semana 4**
-  - [Practice Quiz: Dynamic Programming](./01 - Fundamentals of Reinforcement Learning/Week 04/Practice Quiz Dynamic Programming.pdf)
-  - [Notebook: Optimal Policies with Dynamic Programming](./01 - Fundamentals of Reinforcement Learning/Week 04/Notebook_Optimal_Policies_with_Dynamic_Programming/C1M4_Assignment2-v2.ipynb)
+  - [Practice Quiz: Dynamic Programming](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%204/Practice%20Quiz%EF%80%A2%20Dynamic%20Programming.png)
+  - [Notebook: Optimal Policies with Dynamic Programming](https://github.com/renatomenendes/Reinforcement-Learning-Specialization/blob/main/01%20-%20Fundamentals%20of%20Reinforcement%20Learning/Week%204/Notebook_Optimal_Policies_with_Dynamic_Programming/C1M4_Assignment2-v2.ipynb)
 
 ### 2. [Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)
 - **Semana 2**

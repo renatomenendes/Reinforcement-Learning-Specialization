@@ -1,6 +1,9 @@
 ---
+
 # Reinforcement Learning Specialization
+
 ---
+
 Este repositório contém minhas soluções e materiais relacionados à [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) oferecida pela Universidade de Alberta e o Alberta Machine Intelligence Institute, ministrada pelos instrutores **Martha White** e **Adam White**.
 
 ## Conteúdo do Repositório
@@ -82,5 +85,7 @@ Aqui estão os certificados que obtive ao concluir a especialização:
 <kbd><img src="./04 - A Complete Reinforcement Learning System (Capstone)/Certificate/Certificate.jpg" alt="Capstone Project Certificate" /></kbd>
 
 ---
+
 © Copyright 2024 - Todos os direitos reservados à Renato Cesar Menendes Cruz.
+
 ---
